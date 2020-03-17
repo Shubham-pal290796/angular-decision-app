@@ -27,6 +27,7 @@
   padding: 12px;
   width: 600px;
   color: white;
-  background-color: 	#4B0082;
+  background-color: 	rgb(64, 4, 107);
   border: none;
+  border-bottom: 6px solid #663399;
 }
